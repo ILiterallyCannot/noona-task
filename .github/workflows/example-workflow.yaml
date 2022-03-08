@@ -26,7 +26,8 @@ jobs:
           pip3 install --upgrade \
                   --no-cache-dir \
                   robotframework \
-                  robotframework-browser
+                  robotframework-browser \
+                  RESTinstance
       - name: Install node deps and python deps for test running
         run: |
           rfbrowser init
