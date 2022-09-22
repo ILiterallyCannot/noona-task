@@ -1,4 +1,4 @@
 python_dict = {
-    "name": "peter",
-    "last_name": "parker"
+    "name": "noona@email.com",
+    "pwd": "wrongpassw0rd"
 }

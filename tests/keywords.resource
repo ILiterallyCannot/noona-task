@@ -1,10 +1,7 @@
 *** Settings ***
-Library    PythonKeywords.py
+Library     PythonKeywords.py
+
 
 *** Keywords ***
-Say Hello World
-    Log To Console    Hello World
-
-Call A Library Keyword
-    Lib Keyword    Hello Robot
-
+Say Opening Noona
+    Log To Console    Opening Noona
